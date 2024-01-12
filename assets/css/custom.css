@@ -1,0 +1,35 @@
+.section-data, .mydd{
+    background-color: rgba(0,0,0,1);
+    background-image: url("../imgs/fabric_plaid.png");
+    background-blend-mode: screen;
+}
+.english{
+    font-family: Cambria,Arial,SansSerif;
+}
+.bigtitle{
+    font-family: Harrington;
+}
+.myQuote{
+    font-family: SansSerif;
+    font-style: italic;
+    font-size: 14px;
+    text-indent: 30px;
+}
+img{
+   width: 310px;
+   height: 350px;
+}
+
+.img1{
+    width: 390px;
+    height: 400px;
+}
+/*.navsection{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 5px 8px, 10px 10px 8px, 15px 15px 8px;
+}
+ */
+.noti{
+    font-family: Aeyarnadi;
+}
